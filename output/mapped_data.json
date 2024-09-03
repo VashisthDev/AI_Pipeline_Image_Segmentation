@@ -1,0 +1,602 @@
+[
+  {
+    "object_id": 0,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 1,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 2,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 3,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 4,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 5,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 6,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 7,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 8,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 9,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 10,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 11,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 12,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 13,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 14,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 15,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 16,
+    "description": "dog",
+    "text": "35\n",
+    "summary": "Extracted text: 35\n..."
+  },
+  {
+    "object_id": 17,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 18,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 19,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 20,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 21,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 22,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 23,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 24,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 25,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 26,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 27,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 28,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 29,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 30,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 31,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 32,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 33,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 34,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 35,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 36,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 37,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 38,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 39,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 40,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 41,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 42,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 43,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 44,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 45,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 46,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 47,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 48,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 49,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 50,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 51,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 52,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 53,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 54,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 55,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 56,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 57,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 58,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 59,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 60,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 61,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 62,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 63,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 64,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 65,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 66,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 67,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 68,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 69,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 70,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 71,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 72,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 73,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 74,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 75,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 76,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 77,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 78,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 79,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 80,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 81,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 82,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 83,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 84,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 85,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 86,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 87,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 88,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 89,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 90,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 91,
+    "description": "dog",
+    "text": "age\n",
+    "summary": "Extracted text: age\n..."
+  },
+  {
+    "object_id": 92,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 93,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 94,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 95,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 96,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 97,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 98,
+    "description": "dog",
+    "text": "",
+    "summary": "No text found"
+  },
+  {
+    "object_id": 99,
+    "description": "car",
+    "text": "",
+    "summary": "No text found"
+  }
+]
